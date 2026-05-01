@@ -36,19 +36,6 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("GOKCE!")
             
-            Button("Click Me"){
-                print("hello")
-            }
-            
-            Button("Click me second"){
-                print("second")
-            }
-            
-            Button("Add click me button"){
-                print("Click me ")
-            }
-            .background(Color.red)
-            
             Button("Subscribe"){
                 
             }
