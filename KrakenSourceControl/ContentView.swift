@@ -23,6 +23,10 @@ struct ContentView: View {
                 print("second")
             }
             
+            Button("Add click me button"){
+                print("Click me ")
+            }
+            
         }
         .padding()
         .padding()
