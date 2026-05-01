@@ -37,15 +37,13 @@ struct ContentView: View {
             Text("GOKCE!")
             
             Button("Subscribe"){
-                
             }
             .background(.green)
             
         }
         .background(Color.red)
         .padding()
-        .padding()
-        .padding()
+        Rectangle()
     }
 }
 
