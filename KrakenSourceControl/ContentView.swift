@@ -17,10 +17,12 @@ struct ContentView: View {
             
             Button("Click Me"){
                 print("hello")
-                
-                
-                
             }
+            
+            Button("Click me second"){
+                print("second")
+            }
+            
         }
         .padding()
         .padding()
