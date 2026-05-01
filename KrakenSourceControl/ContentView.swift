@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "heart.fill")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("SKYLOWERR!")
+            Text("GOKCE!")
             
             Button("Click Me"){
                 print("hello")
@@ -26,6 +26,7 @@ struct ContentView: View {
             Button("Add click me button"){
                 print("Click me ")
             }
+            .background(Color.blue)
             
         }
         .background(Color.red)
