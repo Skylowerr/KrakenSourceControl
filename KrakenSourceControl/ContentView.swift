@@ -47,7 +47,7 @@ struct ContentView: View {
             Button("Add click me button"){
                 print("Click me ")
             }
-            .background(Color.blue)
+            .background(Color.red)
             
         }
         .background(Color.red)
