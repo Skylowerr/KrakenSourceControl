@@ -36,7 +36,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("GOKCE!")
             
-            Button("Subscribe"){
+            Button("Subscribe now!"){
             }
             .background(.green)
             
