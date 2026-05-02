@@ -42,7 +42,7 @@ struct ContentView: View {
                 VStack{
                     ForEach(0..<5){_ in
                         VStack {
-                            Image(systemName: "magnifyingglass")
+                            Image(systemName: "globe")
                                 .imageScale(.large)
                                 .foregroundStyle(.tint)
                             Text("Some new Title!!")
