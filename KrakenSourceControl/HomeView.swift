@@ -15,9 +15,6 @@ struct HomeView: View {
             VStack{
                 Text("Hi")
                 Text("Screen 2!")
-                Text("Screen 2!")
-                Text("Screen 2!")
-
             }
             .onAppear{
                 //analytics
