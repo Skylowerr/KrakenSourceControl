@@ -51,9 +51,9 @@ struct ContentView: View {
                             Image(systemName: "globe")
                                 .imageScale(.large)
                                 .foregroundStyle(.tint)
-                            Text("Some new Title")
+                            Text("Some new Title!")
                             
-                            Button("Subscribe now"){
+                            Button("Subscribe!!"){
                             }
                         }
                     }
