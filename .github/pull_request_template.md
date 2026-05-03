@@ -1,7 +1,8 @@
-# 📌 Pull Title
+# 📌 Pull Request
+
+# ✏️Title
 The title should explain the changes.
 
-# 📌 Pull Request
 
 ## 📝 Description
 - What problem does this solve?
