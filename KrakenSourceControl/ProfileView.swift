@@ -11,8 +11,12 @@ struct ProfileView: View {
     @State private var text : String = "Skylowerr"
     var body: some View {
         Text("Gokce")
+            .onAppear{
+                //do something
+            }
     }
 }
+
 
 #Preview {
     ProfileView()
