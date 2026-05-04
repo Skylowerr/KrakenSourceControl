@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct ProfileView: View {
+    @State private var text : String = "Skylowerr"
     var body: some View {
         Text("Gokce")
     }
