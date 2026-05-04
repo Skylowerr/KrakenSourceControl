@@ -8,12 +8,16 @@
 import SwiftUI
 
 struct ProfileView: View {
-    @State private var text : String = "Emirhan"
+    @State private var text : String = "Skylowerr"
     var body: some View {
         Text("Gokce")
-            .onAppear{}
+            .onAppear{
+                //do something
+            }
     }
 }
+
+
 
 #Preview {
     ProfileView()
