@@ -6,7 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		6BCDAC442FA890D2008AB05D /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCDAC432FA890D2008AB05D /* ProfileView.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
+		6BCDAC432FA890D2008AB05D /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		6BE1282A2FA251460079F882 /* KrakenSourceControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KrakenSourceControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -32,6 +37,7 @@
 		6BE128212FA251460079F882 = {
 			isa = PBXGroup;
 			children = (
+				6BCDAC432FA890D2008AB05D /* ProfileView.swift */,
 				6BE1282C2FA251460079F882 /* KrakenSourceControl */,
 				6BE1282B2FA251460079F882 /* Products */,
 			);
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6BCDAC442FA890D2008AB05D /* ProfileView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
