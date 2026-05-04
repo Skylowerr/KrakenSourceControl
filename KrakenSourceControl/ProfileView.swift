@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ProfileView: View {
-    @State private var text : String = "Skylowerr"
+    @State private var text : String = "Emirhan"
     var body: some View {
         Text("Gokce")
             .onAppear{}
